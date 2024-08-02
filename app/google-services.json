@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "45755399893",
+    "project_id": "internee-task",
+    "storage_bucket": "internee-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45755399893:android:eeea1e68f5caad93c02c5c",
+        "android_client_info": {
+          "package_name": "com.example.internee_task2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLevo6r7pMRiECJyUd7YddSufhjn7BW6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45755399893:android:26005815d7ac0c74c02c5c",
+        "android_client_info": {
+          "package_name": "org.mark.internee_task2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLevo6r7pMRiECJyUd7YddSufhjn7BW6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
